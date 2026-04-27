@@ -12,3 +12,7 @@ Jumper wires, breadboard
 System Architecture
 Sensor → STM32 (TX) → CAN Bus → STM32 (RX) → Display
 Images
+fetures
+Real-time monitoring
+Fast CAN communication
+Embedded system design
