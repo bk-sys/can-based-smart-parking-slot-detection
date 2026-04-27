@@ -20,3 +20,5 @@ Future Scope
 IoT integration
 Mobile app support
 Smart city implementation
+Conclusion
+This project demonstrates the practical use of CAN protocol in real-time embedded systems for smart parking applications.
