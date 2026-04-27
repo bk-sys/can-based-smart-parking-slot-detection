@@ -16,3 +16,7 @@ fetures
 Real-time monitoring
 Fast CAN communication
 Embedded system design
+Future Scope
+IoT integration
+Mobile app support
+Smart city implementation
