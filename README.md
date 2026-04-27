@@ -11,3 +11,4 @@ LCD display
 Jumper wires, breadboard
 System Architecture
 Sensor → STM32 (TX) → CAN Bus → STM32 (RX) → Display
+Images
